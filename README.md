@@ -38,6 +38,19 @@
 📫 Hit me up: **masanjafrancis5@gmail.com**  
 Instagram: [@3lue_jl](https://instagram.com/3lue_jl](https://instagram.com/3lue_jl)
 
+<!-- 🌸 Contribution Graph -->
+<a href="https://github.com/francis-masanja">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=am3lue&theme=tokyo-night&hide_border=true&area=true&custom_title=am3lue's%20Contribution%20Graph" width="95%"/>
+</a>
+<br>
+
+<!-- 🔥 Streak Stats for HackVerse Vibes -->
+<a href="https://github.com/am3lue">
+  <img src="https://streak-stats.demolab.com?user=am3lue&theme=tokyonight&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j"/>
+</a>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=francis-masanja&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francis-masanja&theme=tokyonight" />
