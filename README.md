@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Turning+sensors+into+data+with+Julia;Controlling+the+world+with+Arduino;IoT+from+Arusha+to+the+cloud+%F0%9F%87%B9%F0%9F%87%BF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Turning+sensors+into+data+with+Julia;Controlling+the+world+with+Arduino;IoT+from+Tanzania+to+the+cloud+%F0%9F%87%B9%F0%9F%87%BF" />
 </p>
 
 ### What I'm actually using right now:
