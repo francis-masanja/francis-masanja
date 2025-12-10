@@ -45,16 +45,11 @@ Instagram: [@3lue_jl](https://instagram.com/3lue_jl](https://instagram.com/3lue_
 <br>
 
 <!-- 🔥 Streak Stats for HackVerse Vibes -->
-<a href="https://github.com/am3lue">
+<a href="https://github.com/francis-masanja">
   <img src="https://streak-stats.demolab.com?user=am3lue&theme=tokyonight&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j"/>
 </a>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francis-masanja&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francis-masanja&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer"/>
