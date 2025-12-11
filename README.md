@@ -36,7 +36,7 @@
 - Experimenting with Julia on Android (Termux gang)
 
 📫 Hit me up: **masanjafrancis5@gmail.com**  
-Instagram: [@3lue_jl](https://instagram.com/3lue_jl])
+Instagram: [@3lue_jl](https://instagram.com/3lue_jl)
 
 <!-- 🌸 Contribution Graph -->
 <a href="https://github.com/francis-masanja">
