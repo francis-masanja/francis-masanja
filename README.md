@@ -40,7 +40,7 @@ Instagram: [@3lue_jl](https://instagram.com/3lue_jl](https://instagram.com/3lue_
 
 <!-- 🌸 Contribution Graph -->
 <a href="https://github.com/francis-masanja">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francis-masanja&theme=tokyo-night&hide_border=true&area=true&custom_title=am3lue's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francis-masanja&theme=tokyo-night&hide_border=true&area=true&custom_title=francis-masanja's%20Contribution%20Graph" width="95%"/>
 </a>
 <br>
 
