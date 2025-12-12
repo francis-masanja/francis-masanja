@@ -2,7 +2,7 @@
 <h3 align="center">Arduino × Julia × IoT Builder from Tanzania 🇹🇿</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=francis-masanja&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Francis Masanja&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
