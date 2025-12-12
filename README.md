@@ -2,7 +2,7 @@
 <h3 align="center">Arduino × Julia × IoT Builder from Tanzania 🇹🇿</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Francis Masanja&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=francis-masanja&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -40,6 +40,6 @@ Instagram: [@3lue_jl](https://instagram.com/3lue_jl)
 
 <!-- 🌸 Contribution Graph -->
 <a href="https://github.com/francis-masanja">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francis-masanja&theme=tokyo-night&hide_border=true&area=true&custom_title=francis-masanja's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francis-masanja&theme=tokyo-night&hide_border=true&area=true&custom_title=Francis%20Masanja's%20Contribution%20Graph" width="95%"/>
 </a>
 <br>
